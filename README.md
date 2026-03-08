@@ -5,7 +5,7 @@
 <br/>
 
 [![Phase](https://img.shields.io/badge/Phase-3%20%7C%20Hard-red?style=for-the-badge)](.)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-0%2F100-blue?style=for-the-badge&logo=leetcode&logoColor=white)](.)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-64%2F100-blue?style=for-the-badge&logo=leetcode&logoColor=white)](.)
 [![Focus](https://img.shields.io/badge/Focus-Elite%20DSA-darkred?style=for-the-badge)](.)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)](.)
 [![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](.)
@@ -170,3 +170,4 @@ Problem Title
 *Made with 🔥 and relentless consistency by Yash Brahmankar*
 
 </div>
+
