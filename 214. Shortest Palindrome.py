@@ -28,4 +28,3 @@ class Solution(object):
         add = rev[:len(s) - l[-1]]
         return add + s
 
-
