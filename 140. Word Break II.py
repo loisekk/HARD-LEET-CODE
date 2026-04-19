@@ -18,7 +18,7 @@ class Solution(object):
             for end in range(start + 1, len(s) + 1):
                 word = s[start:end]
 
-                if word in word_set:
+                if word in wordset:
                     path.append(word)          # choose
                     backtrack(end, path)       # explore
                     path.pop()                 # un-choose
