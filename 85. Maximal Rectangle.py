@@ -7,6 +7,7 @@ class Solution(object):
         rows = len(matrix)
         node = matrix
         visit = set()
+        
         # def dfs(i , j ):
         #     if (i < 0 or j < 0 or i >= rows or j>= cols or matrix[i][j] == '0' or (i,j) in visit ):
         #       return 0 
@@ -19,6 +20,7 @@ class Solution(object):
         #             if matrix[i][j] == '1' and (i,j) not in visit:
         #                 max_area = max(max_area , dfs(i,j))
         #     return max_area
+        
         ''' 2nd approach '''
         # def dfs(i , j , rows ,cols,  node  , visit):
         #     for i in rows:
