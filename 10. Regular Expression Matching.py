@@ -7,7 +7,6 @@ class Solution(object):
         :rtype: bool
         """
         memo = {}
-
         def dfs(i, j):
             if (i, j) in memo:
                 return memo[(i, j)]
