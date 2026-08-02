@@ -1,6 +1,5 @@
 class Solution(object):
-    def isMatch(self, s, p):
-        
+    def isMatch(self, s, p):    
         """
         :type s: str
         :type p: str
@@ -20,8 +19,6 @@ class Solution(object):
                 )
             else:
                 ans = first_match and dfs(i + 1, j + 1)
-
             memo[(i, j)] = ans
             return ans
-
         return dfs(0, 0)
