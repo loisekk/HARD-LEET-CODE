@@ -4,8 +4,7 @@ class Solution(object):
         :type s: str
         :type t: str
         :rtype: int
-        """
-        
+        """    
         n = len(t)
         o = [0]*(n+1)
         o[0] = 1
