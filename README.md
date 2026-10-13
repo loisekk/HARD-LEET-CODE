@@ -178,6 +178,7 @@ Problem Title
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
 ## Stack
 |  |
 | ------- |
@@ -190,4 +191,8 @@ Problem Title
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
