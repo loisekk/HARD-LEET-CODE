@@ -179,6 +179,7 @@ Problem Title
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Stack
 |  |
 | ------- |
@@ -195,4 +196,16 @@ Problem Title
 |  |
 | ------- |
 | [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
