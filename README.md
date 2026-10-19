@@ -180,6 +180,7 @@ Problem Title
 | [0084-largest-rectangle-in-histogram](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/loisekk/HARD-LEET-CODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -204,8 +205,13 @@ Problem Title
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/loisekk/HARD-LEET-CODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/loisekk/HARD-LEET-CODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
