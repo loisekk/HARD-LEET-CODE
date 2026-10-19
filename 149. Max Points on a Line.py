@@ -10,7 +10,6 @@ class Solution(object):
             while b:
                 a, b = b, a % b
             return a
-
         n = len(points)
         if n <= 2:
             return n
@@ -22,7 +21,7 @@ class Solution(object):
                 dy = points[j][1] - points[i][1]
                 dx = points[j][0] - points[i][0]
 
-                # ✅ duplicate point
+                # duplicate point
                 if dx == 0 and dy == 0:
                     duplicates += 1
                     continue
@@ -30,8 +29,7 @@ class Solution(object):
                 if g != 0:
                     dy //= g
                     dx //= g
-
-                # ✅ normalize slope
+                #  normalize slope
                 if dx < 0:
                     dx *= -1
                     dy *= -1
