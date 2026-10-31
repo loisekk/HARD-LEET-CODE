@@ -13,7 +13,6 @@ class Solution(object):
         parents = defaultdict(set)
         layer = {beginWord}
         found = False
-
         while layer and not found:
             wordSet -= layer
             next_layer = set()
@@ -27,7 +26,6 @@ class Solution(object):
                             if new_word == endWord:
                                 found = True
             layer = next_layer
-
         if not found:
             return []
 
