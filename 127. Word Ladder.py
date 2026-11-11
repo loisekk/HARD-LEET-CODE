@@ -7,18 +7,14 @@ class Solution(object):
         :rtype: int
         """
         wordSet = set(wordList)
-
         if endWord not in wordSet:
             return 0
         queue = deque([(beginWord, 1)])
-
         while queue:
             word, level = queue.popleft()
-
             for i in range(len(word)):
                 for c in "abcdefghijklmnopqrstuvwxyz":
                     new_word = word[:i] + c + word[i+1:]
-
                     if new_word == endWord:
                         return level + 1
                     if new_word in wordSet:
