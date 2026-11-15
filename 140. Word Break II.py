@@ -7,13 +7,11 @@ class Solution(object):
         """
         res = []
         wordset = set(wordDict)
-
         def backtrack(start, path):
             # If we reached end ->  valid sentence
             if start == len(s):
                 res.append(" ".join(path)) # merge list and str
                 return
-
             # Try every possible word
             for end in range(start + 1, len(s) + 1):
                 word = s[start:end]
@@ -22,6 +20,5 @@ class Solution(object):
                     path.append(word)          # choose
                     backtrack(end, path)       # explore
                     path.pop()                 # un-choose
-
         backtrack(0, [])
         return res
