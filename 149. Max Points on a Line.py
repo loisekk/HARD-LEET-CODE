@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: int
         """
         from collections import defaultdict
-
         def gcd(a, b):
             while b:
                 a, b = b, a % b
