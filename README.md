@@ -180,6 +180,7 @@ Problem Title
 | [0084-largest-rectangle-in-histogram](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0407-trapping-rain-water-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/loisekk/HARD-LEET-CODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
@@ -214,4 +215,16 @@ Problem Title
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/loisekk/HARD-LEET-CODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
