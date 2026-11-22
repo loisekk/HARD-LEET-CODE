@@ -178,6 +178,7 @@ Problem Title
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0407-trapping-rain-water-ii) |
@@ -214,6 +215,7 @@ Problem Title
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0128-longest-consecutive-sequence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/loisekk/HARD-LEET-CODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Breadth-First Search
 |  |
@@ -227,4 +229,8 @@ Problem Title
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0407-trapping-rain-water-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/loisekk/HARD-LEET-CODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
