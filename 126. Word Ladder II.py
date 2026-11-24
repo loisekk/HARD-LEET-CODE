@@ -9,7 +9,6 @@ class Solution(object):
         wordSet = set(wordList)
         if endWord not in wordSet:
             return []
-
         parents = defaultdict(set)
         layer = {beginWord}
         found = False
@@ -29,6 +28,7 @@ class Solution(object):
         if not found:
             return []
 
+        
         # DFS backtrack
         res = []
         def dfs(word, path):
