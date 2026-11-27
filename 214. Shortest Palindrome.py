@@ -10,7 +10,6 @@ class Solution(object):
         #    if pre == pre[::-1]:
         #       fix =s[i:]
         #       return fix[::-1] +s
-
         rev = s[::-1]
         new_s = s + "#" + rev
         
@@ -27,4 +26,3 @@ class Solution(object):
         # Characters to add
         add = rev[:len(s) - l[-1]]
         return add + s
-
